@@ -1,0 +1,1 @@
+export { OutlinedInfo } from "./OutlinedInfo";
