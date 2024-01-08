@@ -6,9 +6,12 @@
   flex-direction: column;
   gap: 10px;
   padding: 6px 12px;
-  position: relative;
+  position: fixed;
+  bottom: 10px;   /* Add a 10px gap from the bottom */
+  left: 10px;     /* Add a 10px gap from the left */
   width: 192px;
 }
+
 
 .base-nav-bottom .frame-10 {
   align-items: center;
