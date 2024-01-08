@@ -8,9 +8,9 @@
 
 .payments-cashfree .div-2 {
   background-color: var(--black-98);
-  height: 1482px;
+  height: 100%;
   position: relative;
-  width: 1440px;
+  width: 100%;
 }
 
 .payments-cashfree .dashboard-header-instance {
