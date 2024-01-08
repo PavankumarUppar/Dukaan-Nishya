@@ -19,7 +19,7 @@
   gap: 24px;
   margin-left: -2px;
   margin-right: -2px;
-  position: relative;
+  position: fixed;
 }
 
 .base-navigation-bar .company-icon-image {

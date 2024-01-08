@@ -3,8 +3,10 @@
   display: inline-flex;
   flex-direction: column;
   height: 800px;
-  position: relative;
+  position: fixed; /* Set position to fixed */
+  top: 0; /* Stick to the top of the viewport */
 }
+
 
 .navbar .navbar-account {
   flex: 1 !important;
